@@ -5,14 +5,14 @@
     <PackageId>GoC.WebTemplate-CoreMVC</PackageId>
     <Authors>Solution Design Services</Authors>
     <Company>Employment and Social Development Canada - GoC</Company>
-    <Description>The CoreMVC Template as part of the DotNetTemplates for .NET Core that incorporates SCWASI and the CDTS, written in C#</Description>
+    <Description>TBS managed fork with .NET 10 support. The CoreMVC Template as part of the DotNetTemplates for .NET Core that incorporates SCWASI and the CDTS, written in C#</Description>
     <Copyright>Copyright (c) His Majesty the King in Right of Canada, as represented by the Employment and Social Development Canada, 2024</Copyright>
     <PackageProjectUrl>https://gccode.ssc-spc.gc.ca/iitb-dgiit/sds/GOCWebTemplates/DotNetTemplates</PackageProjectUrl>
     <PackageIconUrl>https://gccode.ssc-spc.gc.ca/uploads/-/system/project/avatar/4622/Capture.PNG</PackageIconUrl>
     <PackageTags>SCWASI CDN Template SDS SF Web Template MVC Core</PackageTags>
     <AssemblyVersion>5.0.*</AssemblyVersion>
-    <Version>5.0.0</Version>
-    <FileVersion>5.0.0.0</FileVersion>
+    <Version>5.0.7</Version>
+    <FileVersion>5.0.7.0</FileVersion>
     <Deterministic>False</Deterministic>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <IsPackable>true</IsPackable>
